@@ -25,7 +25,7 @@ This Flutter app allows users to **check in** and **check out** based on their *
 ### ✅ 1. Clone and Get Dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aungminsoe914/flutter_location_app.git --branch location_1.0.0
 cd location_app
 flutter pub get
 ````
